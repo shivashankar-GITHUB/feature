@@ -5,6 +5,7 @@
  import org.apache.commons.logging.Log;
  import org.apache.commons.logging.LogFactory;
  private static Log log = LogFactory.getLog("rule.hello_world");
+ private static Log log = LogFactory.getLog("rule.hello_world_duplicate");
  log.error("Hello world!");
 </Source>
 </Rule>
